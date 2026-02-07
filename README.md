@@ -1,17 +1,26 @@
 # Myoungju KO
 ---
 ## Projects
+### 2024
 - ['share eat!'](https://github.com/sangyeong01/share_eat_project)
+### 2025
 - ['Zeus-On'](https://github.com/shg4860/Zeus-On)
+- ['phoTo'](https://github.com/AppleFinder/phoTo-client)
+- ['GKir'](https://github.com/2025-UniD-Hackathon-Team10/2025-UniD-Hackathon-Team10)
+- ['JANDI'](https://github.com/JandiProject/jandi-be)
+---
 ## Studying
 - ['daily commit'](https://github.com/myoungjugo/daily_commit)
+- ['helm study']('https://github.com/myoungjugo/helm_project')
 ---
 ## Languages&tools
--C  
--C++  
--Python  
--javascript & node.js  
+-FastAPI
+-node.js  
 -dart & flutter  
+-AWS
+-k8s
+-GCP
+---
 ## Notion
 https://www.notion.so/1ef5e8b0d11880ae987ae3b5e9aaa629
 
