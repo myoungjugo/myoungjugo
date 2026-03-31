@@ -9,12 +9,12 @@
 - ['GKir'](https://github.com/2025-UniD-Hackathon-Team10/2025-UniD-Hackathon-Team10)
 - ['JANDI'](https://github.com/JandiProject/jandi-be)
 ### 2026
-- ['JANDI_BE']('https://github.com/JandiProject/jandi-be')
+- ['JANDI_BE'](https://github.com/JandiProject/jandi-be)
 ---
 ## Studying
 - ['daily commit'](https://github.com/myoungjugo/daily_commit)
-- ['helm study']('https://github.com/myoungjugo/helm_project')
-- ['algorithm_study']('https://github.com/myoungjugo/algorithm_study')
+- ['helm study'](https://github.com/myoungjugo/helm_project)
+- ['algorithm_study'](https://github.com/myoungjugo/algorithm_study)
 ---
 ## Languages&tools
 -FastAPI
