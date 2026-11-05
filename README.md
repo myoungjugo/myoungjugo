@@ -72,7 +72,6 @@
 | 프로젝트 | 설명 | 스택 | 레포 |
 |---|---|---|---|
 | **쉐어잇** (디자인적 사고, A+) | 자취생 식재료 공동구매 사이트. 프론트엔드 담당, 팀 프로젝트 만점 | HTML, CSS | [share_eat_project](https://github.com/sangyeong01/share_eat_project) |
-| 학원 인원체크 앱 | Linux 환경에서 aws-cli로 직접 배포 | AWS | — |
 
 ---
 
