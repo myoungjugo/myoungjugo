@@ -37,7 +37,7 @@
 | 🥉 수상 | GDG on Campus 경희대 GCP 스터디 대회 **3위** (zeus-on) | 2025 |
 | 🎓 교육 | SK AI Data Academy 1기 초급·중급 수료 | 2024 |
 | 🎓 교육 | 네이버클라우드 클라우드 Literacy 과정 (수강 중) | 2026 |
-| 👥 동아리 | GDG on Campus 경희대 — GCP·쿠버네티스 스터디 | 2025~ |
+| 👥 동아리 | GDG on Campus 경희대 — GCP·쿠버네티스 스터디 | 2025~2026 |
 | 👥 동아리 | AWS Cloud Clubs 경희대 — AWS 세션, Java Spring 스터디 | 2026~ |
 
 ---
