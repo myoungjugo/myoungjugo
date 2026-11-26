@@ -1,7 +1,6 @@
 # Myoungju KO
 ---
-<p align="center"> <b>경희대학교 컴퓨터공학과</b><br> 좋아하는 걸 만드는 마음엔 끝이 없으니까<br>벼락치기용 타이머, 서브컬처 일정 플랫폼처럼 제가 필요했던 것들을 직접 만들어 왔습니다.
-지금은 만든 서비스가 더 많은 사람에게 닿고, 그 반응으로 다시 나아지는 과정까지 해 보고 싶습니다.</p>
+<p align="center"> <b>경희대학교 컴퓨터공학과</b><br> 좋아하는 걸 만드는 마음엔 끝이 없으니까<br>제가 필요했던 것들을 직접 만들어 왔습니다. 이렇게 만든 서비스가 더 많은 사람에게 닿기를 희망합니다</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
